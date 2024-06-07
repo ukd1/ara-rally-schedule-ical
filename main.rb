@@ -31,7 +31,7 @@ begin
           model: "gpt-4o",
           messages: [{
             role: "user",
-            content: "Please just output raw ICS with no code-block, please validate the output. Use a URL field for the URL. UID should be the URL of the individual rally. Make a list of ARA rallies in from this data:\n\n#{result}"
+            content: "Please just output raw ICS with no code-block, please validate the output. Use a URL field for the URL. UID should be the URL of the individual rally. Use ATTACH to put the logo from each event properly. Make a list of ARA rallies in from this data:\n\n#{result}"
           }]
       })
 
