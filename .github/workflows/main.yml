@@ -1,0 +1,29 @@
+name: Update ARA Rally Schedule
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+concurrency: commit
+jobs:
+  price_history:
+    name: Update ARA Feed
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.0'
+      - name: Config git user
+        run: |
+          git config user.name "Russell Smith"
+          git config user.email ukd1@users.noreply.github.com
+      - name: Update ARA event ical feed
+        env:
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+          JINA_KEY: ${{ secrets.JINA_KEY }}
+        run: |
+          bundle exec ruby main.rb
+          git add ara-schedule.ics ara-schedule.md
+          git commit ara-schedule.ics ara-schedule.md -m "Updated ARA schedule in run ${GITHUB_RUN_NUMBER}" || true
+      - name: Push repo
+        run: git push || true
