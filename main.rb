@@ -20,27 +20,32 @@ def fetch_url(url)
 end
 
 begin
-  url = "https://r.jina.ai/https://www.americanrallyassociation.org/2024-ara-schedule"
-  result = fetch_url(url)
+  print "Pulling ARA page as markdown..."
+  result = fetch_url("https://r.jina.ai/https://www.americanrallyassociation.org/2024-ara-schedule")
   File.write('ara-schedule.md', result)
+  puts "✅"
 
-  client =  OpenAI::Client.new(access_token: ENV["OPENAI_KEY"])
-
-  response = client.chat(
+  print "Using OpenAI to convert to ICS..."
+  response = OpenAI::Client.new(access_token: ENV["OPENAI_KEY"]).chat(
       parameters: {
           model: "gpt-4o",
           messages: [{
             role: "user",
-            content: "Please just output raw ICS (no code-block) - make a list of ARA rallies in 2024 in from this data:\n\n#{result}"
+            content: "Please just output raw ICS with no code-block, please validate the output. Use a URL field for the URL. UID should be the URL of the individual rally. Make a list of ARA rallies in from this data:\n\n#{result}"
           }]
       })
 
   r = response.dig("choices", 0, "message", "content")
+  puts "✅"
 
+  print "Validating ICS..."
   strict_parser = Icalendar::Parser.new(r, true)
   strict_parser.parse
+  puts "✅"
+
+
 
   File.write("ara-schedule.ics", r)
 rescue => e
-  puts "An error occurred: #{e.message}"
+  puts "❌ An error occurred: #{e.message}"
 end

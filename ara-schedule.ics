@@ -1,13 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ARA Rallies 2024//iCalendar Event//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
+PRODID:-//American Rally Association//NONSGML Rally Calendar//EN
 
 BEGIN:VEVENT
-UID:20240209T090000Z-001
-DTSTAMP:20240101T090000Z
-SUMMARY:Sno\*Drift Rally (National/East)
+UID:https://www.americanrallyassociation.org/sno-drift
+SUMMARY:Sno*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 LOCATION:Atlanta, Michigan
@@ -15,8 +13,7 @@ URL:https://www.americanrallyassociation.org/sno-drift
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240315T090000Z-002
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/100aw
 SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
@@ -25,8 +22,7 @@ URL:https://www.americanrallyassociation.org/100aw
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240420T090000Z-003
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/olympusrally
 SUMMARY:Olympus Rally (National/West)
 DTSTART;VALUE=DATE:20240420
 DTEND;VALUE=DATE:20240422
@@ -35,18 +31,16 @@ URL:https://www.americanrallyassociation.org/olympusrally
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240517T090000Z-004
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/oregontrailrally
 SUMMARY:Oregon Trail Rally (National/West)
 DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240520
-LOCATION:Portland, Oregon\n Goldendale, Washington\n Dufur, Oregon
+LOCATION:Portland, Oregon / Goldendale, Washington / Dufur, Oregon
 URL:https://www.americanrallyassociation.org/oregontrailrally
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240606T090000Z-005
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/sofr
 SUMMARY:Southern Ohio Forest Rally (National/East)
 DTSTART;VALUE=DATE:20240606
 DTEND;VALUE=DATE:20240609
@@ -55,8 +49,7 @@ URL:https://www.americanrallyassociation.org/sofr
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240823T090000Z-006
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/ojibwe
 SUMMARY:Ojibwe Forests Rally (National/Central)
 DTSTART;VALUE=DATE:20240823
 DTEND;VALUE=DATE:20240825
@@ -65,8 +58,7 @@ URL:https://www.americanrallyassociation.org/ojibwe
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240914T090000Z-007
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/overmountain-rally
 SUMMARY:Overmountain Rally Tennessee (National/East)
 DTSTART;VALUE=DATE:20240914
 DTEND;VALUE=DATE:20240916
@@ -75,23 +67,12 @@ URL:https://www.americanrallyassociation.org/overmountain-rally
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20241011T090000Z-008
-DTSTAMP:20240101T090000Z
+UID:https://www.americanrallyassociation.org/lspr
 SUMMARY:Lake Superior Performance Rally (National/Central)
 DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241013
 LOCATION:Marquette, Michigan
 URL:https://www.americanrallyassociation.org/lspr
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20241101T090000Z-009
-DTSTAMP:20240101T090000Z
-SUMMARY:Show Me Rally (Central)
-DTSTART;VALUE=DATE:20241101
-DTEND;VALUE=DATE:20241103
-LOCATION:Potosi, Missouri
-URL:https://www.americanrallyassociation.org/show-me-rally
 END:VEVENT
 
 END:VCALENDAR
