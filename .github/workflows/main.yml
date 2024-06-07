@@ -8,7 +8,7 @@ on:
     - cron:  '0 0 * * *'
 concurrency: commit
 jobs:
-  price_history:
+  ara_schedule:
     name: Update ARA Feed
     runs-on: ubuntu-latest
     steps:
@@ -26,8 +26,16 @@ jobs:
           OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           JINA_KEY: ${{ secrets.JINA_KEY }}
         run: |
-          bundle exec ruby main.rb
+          bundle exec ruby ara.rb
           git add ara-schedule.ics ara-schedule.md
           git commit ara-schedule.ics ara-schedule.md -m "Updated ARA schedule in run ${GITHUB_RUN_NUMBER}" || true
+      - name: Update NASA event ical feed
+        env:
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+          JINA_KEY: ${{ secrets.JINA_KEY }}
+        run: |
+          bundle exec ruby nasa.rb
+          git add nasa-schedule.ics nasa-schedule.md
+          git commit nasa-schedule.ics nasa-schedule.md -m "Updated NASA schedule in run ${GITHUB_RUN_NUMBER}" || true
       - name: Push repo
         run: git push || true
