@@ -30,12 +30,8 @@ jobs:
           git add ara-schedule.ics ara-schedule.md
           git commit ara-schedule.ics ara-schedule.md -m "Updated ARA schedule in run ${GITHUB_RUN_NUMBER}" || true
       - name: Update NASA event ical feed
-        env:
-          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
-          JINA_KEY: ${{ secrets.JINA_KEY }}
         run: |
-          bundle exec ruby nasa.rb
-          git add nasa-schedule.ics nasa-schedule.md
-          git commit nasa-schedule.ics nasa-schedule.md -m "Updated NASA schedule in run ${GITHUB_RUN_NUMBER}" || true
+          curl -L http://nasarallysport.com/nrsdb/ical/index.php > nasa-schedule.ics
+          git commit nasa-schedule.ics -m "Updated NASA schedule in run ${GITHUB_RUN_NUMBER}" || true
       - name: Push repo
         run: git push || true
