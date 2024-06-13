@@ -31,7 +31,7 @@ begin
           model: "gpt-4o",
           messages: [{
             role: "user",
-            content: "Please just output raw ICS with no code-block, please validate the output. Use a URL field for the URL. UID should be the URL of the individual rally. States should be full names. VEVENT fields should be in the following order; include only - UID, URL, SUMMARY, DTSTART, DTEND, LOCATION, ATTACH. Use ATTACH to put the logo from each event properly.
+            content: "Please just output raw iCalendar (iCal) with no code-block, please validate the output. All ICS properties are separated from values using semicolons. VEVENT properties should be in the following order; include only - UID, URL, SUMMARY, DTSTART, DTEND, LOCATION, ATTACH. Use a URL field for the URL. UID should be the URL of the individual rally. States should be full names. Seperate multiple LOCATION entries with a semicolon. Use ATTACH to put the logo from each event properly, use FMTTYPE to specify the image format. PRODID should be 'ARA iCal Bot'.
             Make a list of ARA rallies in from this data:\n\n#{result}"
           }]
       })
