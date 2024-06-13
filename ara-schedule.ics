@@ -1,15 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//American Rally Association//NONSGML ARA//EN
+PRODID:-//American Rally Association//NONSGML ARA Rallies//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:American Rally Association Rallies 2024
-X-WR-TIMEZONE:America/New_York
-X-WR-CALDESC:2024 ARA Rally Events
+URL:https://www.americanrallyassociation.org/2024-ara-schedule
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 SUMMARY:Sno*Drift Rally (National/East)
@@ -20,7 +16,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/100aw
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
 SUMMARY:Rally in the 100 Acre Wood (National/Central)
@@ -31,7 +26,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/olympusrally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240420
 DTEND;VALUE=DATE:20240422
 SUMMARY:Olympus Rally (National/West)
@@ -42,7 +36,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/oregontrailrally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240520
 SUMMARY:Oregon Trail Rally (National/West)
@@ -53,7 +46,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sofr
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240606
 DTEND;VALUE=DATE:20240609
 SUMMARY:Southern Ohio Forest Rally (National/East)
@@ -64,7 +56,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/ojibwe
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240823
 DTEND;VALUE=DATE:20240825
 SUMMARY:Ojibwe Forests Rally (National/Central)
@@ -75,7 +66,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/overmountain-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240914
 DTEND;VALUE=DATE:20240916
 SUMMARY:Overmountain Rally Tennessee (National/East)
@@ -86,7 +76,6 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/lspr
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241013
 SUMMARY:Lake Superior Performance Rally (National/Central)
@@ -97,102 +86,92 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/stpr
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240628
 DTEND;VALUE=DATE:20240630
 SUMMARY:Susquehannock Trail Performance Rally (East)
-LOCATION:Wellsboro, Penn.
+LOCATION:Wellsboro, Pennsylvania
 URL:https://www.americanrallyassociation.org/stpr
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_c81522b37e324c30bd2701204437c6de~mv2.png/v1/fill/w_111,h_30,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/240f15_c81522b37e324c30bd2701204437c6de~mv2.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/rally-colorado
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240720
 DTEND;VALUE=DATE:20240722
 SUMMARY:Rally Colorado (West)
-LOCATION:Rangely, Colo.
+LOCATION:Rangely, Colorado
 URL:https://www.americanrallyassociation.org/rally-colorado
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_7756adb2640a493bacfe1186a3f38ca9~mv2.png/v1/fill/w_109,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Transparent_PNG.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/boone-forest-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240727
 DTEND;VALUE=DATE:20240729
 SUMMARY:The Boone Forest Rally (East)
-LOCATION:McKee, Ky.
+LOCATION:McKee, Kentucky
 URL:https://www.americanrallyassociation.org/boone-forest-rally
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_cb211a83ffa14dd6868ba2648b6950dc~mv2.png/v1/fill/w_73,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/f40cbe_cb211a83ffa14dd6868ba2648b6950dc~mv2.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/show-me-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20241101
 DTEND;VALUE=DATE:20241103
 SUMMARY:Show Me Rally (Central)
-LOCATION:Potosi, Mo.
+LOCATION:Potosi, Missouri
 URL:https://www.americanrallyassociation.org/show-me-rally
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_5c40acad9eaf4137bb6d5e47503c4ed8~mv2.png/v1/fill/w_98,h_31,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Logo.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/wild-west-classic
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240310
 SUMMARY:Wild West Rally (West)
-LOCATION:Raymond, WA
+LOCATION:Raymond, Washington
 URL:https://www.americanrallyassociation.org/wild-west-classic
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/724405_9ed2048e33024a00bc47899b75250e1a~mv2.jpg/v1/fill/w_121,h_45,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/Wild%20West.jpg
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/headwaters
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240518
 SUMMARY:Headwaters Regional Rally (Central)
-LOCATION:Detroit Lakes, Minn.
+LOCATION:Detroit Lakes, Minnesota
 URL:https://www.americanrallyassociation.org/headwaters
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_35768cf9739445cda10849695e632f94~mv2.png/v1/fill/w_76,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Headwaters-logo.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/missouri-ozark-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240713
 SUMMARY:Missouri Ozark Rally (Central)
-LOCATION:Texas County, Mo.
+LOCATION:Texas County, Missouri
 URL:https://www.americanrallyassociation.org/missouri-ozark-rally
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_6b2ccaca48984628b5ea906a09cb6fee~mv2_d_3296_1210_s_2.jpg/v1/fill/w_93,h_34,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/45287263_2294526070581499_74690250076585.jpg
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/prescott-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20240920
 DTEND;VALUE=DATE:20240922
 SUMMARY:Prescott Rally (West)
-LOCATION:Prescott, Ariz.
+LOCATION:Prescott, Arizona
 URL:https://www.americanrallyassociation.org/prescott-rally
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_d01692fcf0464a69972e11e99724aa8b~mv2.png/v1/fill/w_97,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Prescott%20Rally%20logo.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/tourdeforest
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20241005
 SUMMARY:Tour de Forest Rally (West)
-LOCATION:Shelton, Wash.
+LOCATION:Shelton, Washington
 URL:https://www.americanrallyassociation.org/tourdeforest
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_cb1e21a8c78547f78765e8337b37b701~mv2_d_3872_3872_s_4_2.jpg/v1/fill/w_52,h_52,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/tour%20de%20forest%20logo2%20(2).jpg
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/mike-nagle-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20241102
 SUMMARY:Mike Nagle Rally (West)
 LOCATION:Columbia County, Oregon
@@ -202,20 +181,18 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/nemadji-trail
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20241207
 SUMMARY:Nemadji Trail Rally (2025 Central Event)
-LOCATION:Duquette, Minn.
+LOCATION:Duquette, Minnesota
 URL:https://www.americanrallyassociation.org/nemadji-trail
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_3cf18fa1f40f40fb9cf409cd38c4b99f~mv2.png/v1/fill/w_51,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/59e8bbd925990ecc61454b3b27ac2cf2ff836caf.png
 END:VEVENT
 
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/ridge-rally
-DTSTAMP:20231006T000000Z
 DTSTART;VALUE=DATE:20241207
 SUMMARY:Ridge Rally (2025 West Regional Event)
-LOCATION:Lancaster, Calif.
+LOCATION:Lancaster, California
 URL:https://www.americanrallyassociation.org/ridge-rally
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/724405_66a6296182c24931a4b092ece0196ff3~mv2.jpg/v1/fill/w_52,h_44,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/Ridge%20Rally%20SQ%20Logo%20002_edited_edited_jp.jpg
 END:VEVENT
