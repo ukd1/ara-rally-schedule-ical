@@ -31,7 +31,8 @@ begin
           model: "gpt-4o",
           messages: [{
             role: "user",
-            content: "Please just output raw ICS with no code-block, please validate the output. Use a URL field for the URL. UID should be the URL of the individual rally. States should be full names. Use ATTACH to put the logo from each event properly. Make a list of ARA rallies in from this data:\n\n#{result}"
+            content: "Please just output raw ICS with no code-block, please validate the output. Use a URL field for the URL. UID should be the URL of the individual rally. States should be full names. VEVENT fields should be in the following order; include only - UID, URL, SUMMARY, DTSTART, DTEND, LOCATION, ATTACH. Use ATTACH to put the logo from each event properly.
+            Make a list of ARA rallies in from this data:\n\n#{result}"
           }]
       })
 
