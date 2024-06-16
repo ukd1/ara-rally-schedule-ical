@@ -4,7 +4,7 @@ VERSION:2.0
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
-SUMMARY:Sno*Drift Rally (National/East)
+SUMMARY:Sno\*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 LOCATION:Atlanta, Michigan
@@ -89,7 +89,7 @@ SUMMARY:Rally Colorado (West)
 DTSTART;VALUE=DATE:20240720
 DTEND;VALUE=DATE:20240722
 LOCATION:Rangely, Colorado
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_7756adb2640a493bacfe1186a3f38ca9~mv2.png
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_49349839065f41238dd3d7ca19173296~mv2.png
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/boone-forest-rally
