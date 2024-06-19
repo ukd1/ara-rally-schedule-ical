@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
-SUMMARY:Sno*Drift Rally (National/East)
+SUMMARY:Sno\*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 LOCATION:Atlanta, Michigan
@@ -19,7 +19,7 @@ SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
 LOCATION:Salem, Missouri;Potosi, Missouri
-ATTACH;FMTTYPE=image/jpg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_289,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo_100aw_2_square.jpg
+ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_289,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo_100aw_2_square.jpg
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/olympusrally
@@ -74,5 +74,41 @@ DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241013
 LOCATION:Marquette, Michigan
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png/v1/crop/x_41,y_82,w_1914,h_988/fill/w_93,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/LSPR%202024.png
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/stpr
+URL:https://www.americanrallyassociation.org/stpr
+SUMMARY:Susquehannock Trail Performance Rally (East)
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240630
+LOCATION:Wellsboro, Pennsylvania
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_c81522b37e324c30bd2701204437c6de~mv2.png/v1/fill/w_111,h_30,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/240f15_c81522b37e324c30bd2701204437c6de~mv2.png
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/rally-colorado
+URL:https://www.americanrallyassociation.org/rally-colorado
+SUMMARY:Rally Colorado (West)
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240722
+LOCATION:Rangely, Colorado
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_7756adb2640a493bacfe1186a3f38ca9~mv2.png/v1/fill/w_109,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Transparent_PNG.png
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/boone-forest-rally
+URL:https://www.americanrallyassociation.org/boone-forest-rally
+SUMMARY:The Boone Forest Rally (East)
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240729
+LOCATION:McKee, Kentucky
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_cb211a83ffa14dd6868ba2648b6950dc~mv2.png/v1/fill/w_73,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/f40cbe_cb211a83ffa14dd6868ba2648b6950dc~mv2.png
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/show-me-rally
+URL:https://www.americanrallyassociation.org/show-me-rally
+SUMMARY:Show Me Rally (Central)
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241103
+LOCATION:Potosi, Missouri
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_5c40acad9eaf4137bb6d5e47503c4ed8~mv2.png/v1/fill/w_98,h_31,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Logo.png
 END:VEVENT
 END:VCALENDAR
