@@ -1,11 +1,10 @@
 BEGIN:VCALENDAR
 PRODID:ARA iCal Bot
 VERSION:2.0
-CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
-SUMMARY:Sno\*Drift Rally (National/East)
+SUMMARY:Sno*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 LOCATION:Atlanta, Michigan
@@ -17,8 +16,8 @@ URL:https://www.americanrallyassociation.org/100aw
 SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
-LOCATION:Salem,Potosi, Missouri
-ATTACH;FMTTYPE=image/jpg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
+LOCATION:Salem, Missouri;Potosi, Missouri
+ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/olympusrally
@@ -35,7 +34,7 @@ URL:https://www.americanrallyassociation.org/oregontrailrally
 SUMMARY:Oregon Trail Rally (National/West)
 DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240520
-LOCATION:Portland,Oregon;Goldendale,Washington;Dufur,Oregon
+LOCATION:Portland, Oregon;Goldendale, Washington;Dufur, Oregon
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg
 END:VEVENT
 BEGIN:VEVENT
