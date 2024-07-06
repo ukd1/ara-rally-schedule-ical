@@ -1,11 +1,10 @@
 BEGIN:VCALENDAR
 PRODID:ARA iCal Bot
 VERSION:2.0
-CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
-SUMMARY:Sno*Drift Rally (National/East)
+SUMMARY:Sno\*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 LOCATION:Atlanta, Michigan
@@ -18,7 +17,7 @@ SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
 LOCATION:Salem;Potosi, Missouri
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_289,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo_100aw_2_square.jpg
+ATTACH;FMTTYPE=image/jpg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_289,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo_100aw_2_square.jpg
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/olympusrally
