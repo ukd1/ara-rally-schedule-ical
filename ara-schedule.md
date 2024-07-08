@@ -20,7 +20,7 @@ Markdown Content:
 ###### February 9-10, 2024  
 Atlanta, Michigan
 
-[![Image 6: logo_100aw_2_square.jpg](https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_289,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo_100aw_2_square.jpg)](https://www.americanrallyassociation.org/100aw)
+[![Image 6: logo_100aw_2_square.jpg](https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_72,h_43,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/logo_100aw_2_square.jpg)](https://www.americanrallyassociation.org/100aw)
 
 ###### [Rally in the 100 Acre Wood (National/Central)](https://www.americanrallyassociation.org/100aw)
 
@@ -28,7 +28,7 @@ Atlanta, Michigan
 March 15\-16, 2024  
 Salem/Potosi, Missouri
 
-[![Image 7: Olympus Logo.png](https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png/v1/fill/w_434,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Olympus%20Logo.png)](https://www.americanrallyassociation.org/olympusrally)
+[![Image 7: Olympus Logo.png](https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png/v1/fill/w_109,h_35,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Olympus%20Logo.png)](https://www.americanrallyassociation.org/olympusrally)
 
 ###### [Olympus Rally (National/West)](https://www.americanrallyassociation.org/olympusrally)
 
