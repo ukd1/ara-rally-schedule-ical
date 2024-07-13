@@ -1,7 +1,6 @@
 BEGIN:VCALENDAR
-PRODID:ARA iCal Bot
-VERSION:2.0
-CALSCALE:GREGORIAN
+PRODID: ARA iCal Bot
+VERSION: 2.0
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
@@ -73,113 +72,5 @@ DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241013
 LOCATION:Marquette, Michigan
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/stpr
-URL:https://www.americanrallyassociation.org/stpr
-SUMMARY:Susquehannock Trail Performance Rally (East)
-DTSTART;VALUE=DATE:20240628
-DTEND;VALUE=DATE:20240630
-LOCATION:Wellsboro, Pennsylvania
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_c81522b37e324c30bd2701204437c6de~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/rally-colorado
-URL:https://www.americanrallyassociation.org/rally-colorado
-SUMMARY:Rally Colorado (West)
-DTSTART;VALUE=DATE:20240720
-DTEND;VALUE=DATE:20240722
-LOCATION:Rangely, Colorado
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_7756adb2640a493bacfe1186a3f38ca9~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/boone-forest-rally
-URL:https://www.americanrallyassociation.org/boone-forest-rally
-SUMMARY:The Boone Forest Rally (East)
-DTSTART;VALUE=DATE:20240727
-DTEND;VALUE=DATE:20240729
-LOCATION:McKee, Kentucky
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_cb211a83ffa14dd6868ba2648b6950dc~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/show-me-rally
-URL:https://www.americanrallyassociation.org/show-me-rally
-SUMMARY:Show Me Rally (Central)
-DTSTART;VALUE=DATE:20241101
-DTEND;VALUE=DATE:20241103
-LOCATION:Potosi, Missouri
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_5c40acad9eaf4137bb6d5e47503c4ed8~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/wild-west-classic
-URL:https://www.americanrallyassociation.org/wild-west-classic
-SUMMARY:Wild West Rally (West)
-DTSTART;VALUE=DATE:20240310
-DTEND;VALUE=DATE:20240311
-LOCATION:Raymond, Washington
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/724405_9ed2048e33024a00bc47899b75250e1a~mv2.jpg
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/headwaters
-URL:https://www.americanrallyassociation.org/headwaters
-SUMMARY:Headwaters Regional Rally (Central)
-DTSTART;VALUE=DATE:20240518
-DTEND;VALUE=DATE:20240519
-LOCATION:Detroit Lakes, Minnesota
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_35768cf9739445cda10849695e632f94~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/missouri-ozark-rally
-URL:https://www.americanrallyassociation.org/missouri-ozark-rally
-SUMMARY:Missouri Ozark Rally (Central)
-DTSTART;VALUE=DATE:20240713
-DTEND;VALUE=DATE:20240714
-LOCATION:Texas County, Missouri
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_6b2ccaca48984628b5ea906a09cb6fee~mv2_d_3296_1210_s_2.jpg
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/prescott-rally
-URL:https://www.americanrallyassociation.org/prescott-rally
-SUMMARY:Prescott Rally (West)
-DTSTART;VALUE=DATE:20240920
-DTEND;VALUE=DATE:20240922
-LOCATION:Prescott, Arizona
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_d01692fcf0464a69972e11e99724aa8b~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/tourdeforest
-URL:https://www.americanrallyassociation.org/tourdeforest
-SUMMARY:Tour de Forest Rally (West)
-DTSTART;VALUE=DATE:20241005
-DTEND;VALUE=DATE:20241006
-LOCATION:Shelton, Washington
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_cb1e21a8c78547f78765e8337b37b701~mv2_d_3872_3872_s_4_2.jpg
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/mike-nagle-rally
-URL:https://www.americanrallyassociation.org/mike-nagle-rally
-SUMMARY:Mike Nagle Rally (West)
-DTSTART;VALUE=DATE:20241102
-DTEND;VALUE=DATE:20241103
-LOCATION:Columbia County, Oregon
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_835207d17ab149bbbc49307a8189455c~mv2.jpg
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/nemadji-trail
-URL:https://www.americanrallyassociation.org/nemadji-trail
-SUMMARY:Nemadji Trail Rally (2025 Central Event)
-DTSTART;VALUE=DATE:20241207
-DTEND;VALUE=DATE:20241208
-LOCATION:Duquette, Minnesota
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_3cf18fa1f40f40fb9cf409cd38c4b99f~mv2.png
-END:VEVENT
-BEGIN:VEVENT
-UID:https://www.americanrallyassociation.org/ridge-rally
-URL:https://www.americanrallyassociation.org/ridge-rally
-SUMMARY:Ridge Rally (2025 West Regional Event)
-DTSTART;VALUE=DATE:20241207
-DTEND;VALUE=DATE:20241208
-LOCATION:Lancaster, California
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/724405_66a6296182c24931a4b092ece0196ff3~mv2.jpg
 END:VEVENT
 END:VCALENDAR
