@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
-PRODID: ARA iCal Bot
-VERSION: 2.0
+PRODID:ARA iCal Bot
+VERSION:2.0
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
@@ -16,7 +17,7 @@ URL:https://www.americanrallyassociation.org/100aw
 SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
-LOCATION:Salem, Missouri;Potosi, Missouri
+LOCATION:Salem;Potosi, Missouri
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
 END:VEVENT
 BEGIN:VEVENT
