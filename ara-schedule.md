@@ -103,7 +103,7 @@ McKee, Ky.
 
 ###### [Show Me Rally (Central)](https://www.americanrallyassociation.org/show-me-rally)
 
-###### November 1-2, 2024  
+###### November 2, 2024  
 Potosi, Mo.
 
 #### 2024 ARA Regional Events
