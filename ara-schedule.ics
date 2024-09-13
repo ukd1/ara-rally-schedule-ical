@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
-VERSION:2.0
 PRODID:ARA iCal Bot
+VERSION:2.0
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
-SUMMARY:Sno*Drift Rally (National/East)
+SUMMARY:Sno\*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
 LOCATION:Atlanta, Michigan
