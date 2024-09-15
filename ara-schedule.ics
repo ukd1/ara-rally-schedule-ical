@@ -1,14 +1,13 @@
 BEGIN:VCALENDAR
-PRODID:ARA iCal Bot
 VERSION:2.0
-CALSCALE:GREGORIAN
+PRODID:ARA iCal Bot
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
 SUMMARY:Sno\*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
-LOCATION:Atlanta, Michigan
+LOCATION:Atlanta;Michigan
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_af82ecb7759b4368a3de5498032ce5e7~mv2.png
 END:VEVENT
 BEGIN:VEVENT
@@ -17,8 +16,8 @@ URL:https://www.americanrallyassociation.org/100aw
 SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
-LOCATION:Salem, Missouri;Potosi, Missouri
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
+LOCATION:Salem/Potosi;Missouri
+ATTACH;FMTTYPE=image/jpg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/olympusrally
@@ -26,7 +25,7 @@ URL:https://www.americanrallyassociation.org/olympusrally
 SUMMARY:Olympus Rally (National/West)
 DTSTART;VALUE=DATE:20240420
 DTEND;VALUE=DATE:20240422
-LOCATION:Shelton, Washington
+LOCATION:Shelton;Washington
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png
 END:VEVENT
 BEGIN:VEVENT
@@ -35,7 +34,7 @@ URL:https://www.americanrallyassociation.org/oregontrailrally
 SUMMARY:Oregon Trail Rally (National/West)
 DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240520
-LOCATION:Portland, Oregon;Goldendale, Washington;Dufur, Oregon
+LOCATION:Portland;Oregon;Goldendale;Washington;Dufur;Oregon
 ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +43,7 @@ URL:https://www.americanrallyassociation.org/sofr
 SUMMARY:Southern Ohio Forest Rally (National/East)
 DTSTART;VALUE=DATE:20240606
 DTEND;VALUE=DATE:20240609
-LOCATION:Chillicothe, Ohio
+LOCATION:Chillicothe;Ohio
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +52,7 @@ URL:https://www.americanrallyassociation.org/ojibwe
 SUMMARY:Ojibwe Forests Rally (National/Central)
 DTSTART;VALUE=DATE:20240823
 DTEND;VALUE=DATE:20240825
-LOCATION:Detroit Lakes, Minnesota
+LOCATION:Detroit Lakes;Minnesota
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +61,7 @@ URL:https://www.americanrallyassociation.org/overmountain-rally
 SUMMARY:Overmountain Rally Tennessee (National/East)
 DTSTART;VALUE=DATE:20240914
 DTEND;VALUE=DATE:20240916
-LOCATION:Johnson City, Tennessee
+LOCATION:Johnson City;Tennessee
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +70,7 @@ URL:https://www.americanrallyassociation.org/lspr
 SUMMARY:Lake Superior Performance Rally (National/Central)
 DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241013
-LOCATION:Marquette, Michigan
+LOCATION:Marquette;Michigan
 ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png
 END:VEVENT
 END:VCALENDAR
