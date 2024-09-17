@@ -1,14 +1,15 @@
 BEGIN:VCALENDAR
-VERSION:2.0
 PRODID:ARA iCal Bot
+VERSION:2.0
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sno-drift
 URL:https://www.americanrallyassociation.org/sno-drift
-SUMMARY:Sno\*Drift Rally (National/East)
+SUMMARY:Sno*Drift Rally (National/East)
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240211
-LOCATION:Atlanta;Michigan
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_af82ecb7759b4368a3de5498032ce5e7~mv2.png
+LOCATION:Atlanta, Michigan
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_af82ecb7759b4368a3de5498032ce5e7~mv2.png/v1/fill/w_455,h_95,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/sno%20drift%20logo.png
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/100aw
@@ -16,8 +17,8 @@ URL:https://www.americanrallyassociation.org/100aw
 SUMMARY:Rally in the 100 Acre Wood (National/Central)
 DTSTART;VALUE=DATE:20240315
 DTEND;VALUE=DATE:20240317
-LOCATION:Salem/Potosi;Missouri
-ATTACH;FMTTYPE=image/jpg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
+LOCATION:Salem, Missouri;Potosi, Missouri
+ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_72,h_43,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/logo_100aw_2_square.jpg
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/olympusrally
@@ -25,8 +26,8 @@ URL:https://www.americanrallyassociation.org/olympusrally
 SUMMARY:Olympus Rally (National/West)
 DTSTART;VALUE=DATE:20240420
 DTEND;VALUE=DATE:20240422
-LOCATION:Shelton;Washington
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png
+LOCATION:Shelton, Washington
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png/v1/fill/w_109,h_35,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Olympus%20Logo.png
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/oregontrailrally
@@ -34,8 +35,8 @@ URL:https://www.americanrallyassociation.org/oregontrailrally
 SUMMARY:Oregon Trail Rally (National/West)
 DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240520
-LOCATION:Portland;Oregon;Goldendale;Washington;Dufur;Oregon
-ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg
+LOCATION:Portland, Oregon;Goldendale, Washington;Dufur, Oregon
+ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg/v1/fill/w_102,h_32,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/image0.jpeg
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/sofr
@@ -43,8 +44,8 @@ URL:https://www.americanrallyassociation.org/sofr
 SUMMARY:Southern Ohio Forest Rally (National/East)
 DTSTART;VALUE=DATE:20240606
 DTEND;VALUE=DATE:20240609
-LOCATION:Chillicothe;Ohio
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png
+LOCATION:Chillicothe, Ohio
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png/v1/fill/w_97,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/unnamed.png
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/ojibwe
@@ -52,8 +53,8 @@ URL:https://www.americanrallyassociation.org/ojibwe
 SUMMARY:Ojibwe Forests Rally (National/Central)
 DTSTART;VALUE=DATE:20240823
 DTEND;VALUE=DATE:20240825
-LOCATION:Detroit Lakes;Minnesota
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png
+LOCATION:Detroit Lakes, Minnesota
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png/v1/crop/x_251,y_282,w_1404,h_1480/fill/w_56,h_59,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/overmountain-rally
@@ -61,8 +62,8 @@ URL:https://www.americanrallyassociation.org/overmountain-rally
 SUMMARY:Overmountain Rally Tennessee (National/East)
 DTSTART;VALUE=DATE:20240914
 DTEND;VALUE=DATE:20240916
-LOCATION:Johnson City;Tennessee
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png
+LOCATION:Johnson City, Tennessee
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png/v1/crop/x_143,y_433,w_1713,h_1140/fill/w_89,h_59,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png
 END:VEVENT
 BEGIN:VEVENT
 UID:https://www.americanrallyassociation.org/lspr
@@ -70,7 +71,7 @@ URL:https://www.americanrallyassociation.org/lspr
 SUMMARY:Lake Superior Performance Rally (National/Central)
 DTSTART;VALUE=DATE:20241011
 DTEND;VALUE=DATE:20241013
-LOCATION:Marquette;Michigan
-ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png
+LOCATION:Marquette, Michigan
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png/v1/crop/x_41,y_82,w_1914,h_988/fill/w_93,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/LSPR%202024.png
 END:VEVENT
 END:VCALENDAR
