@@ -5,7 +5,7 @@ URL Source: https://www.americanrallyassociation.org/2024-ara-schedule
 Markdown Content:
 ![Image 1: 2024 championship icon smaller.png](https://static.wixstatic.com/media/724405_e5b978954c0445f08d05cf079c92d679~mv2.png/v1/crop/x_172,y_0,w_1653,h_1423/fill/w_332,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2024%20championship%20icon%20smaller.png)
 
-![Image 2: IMG_0946.JPG](https://static.wixstatic.com/media/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg/v1/fill/w_104,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg)
+![Image 2: IMG_0946.JPG](https://static.wixstatic.com/media/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg)
 
 ![Image 3](https://static.wixstatic.com/media/84770f_53e1e888a8444c5b94b7dd3ec1655b3a.png/v1/fill/w_516,h_502,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_53e1e888a8444c5b94b7dd3ec1655b3a.png)
 
