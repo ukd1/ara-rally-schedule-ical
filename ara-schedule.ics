@@ -1,18 +1,76 @@
-BEGIN:VCALENDAR;PRODID:ARA iCal Bot;VERSION:2.0
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/sno-drift;URL:https://www.americanrallyassociation.org/sno-drift;SUMMARY:Sno\*Drift Rally (National/East);DTSTART:20240209;DTEND:20240210;LOCATION:Atlanta, Michigan;ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_af82ecb7759b4368a3de5498032ce5e7~mv2.png
+BEGIN:VCALENDAR
+PRODID:ARA iCal Bot
+VERSION:2.0
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/sno-drift
+URL:https://www.americanrallyassociation.org/sno-drift
+SUMMARY:Sno*Drift Rally (National/East)
+DTSTART;TZID=America/New_York:20240209T000000
+DTEND;TZID=America/New_York:20240210T235959
+LOCATION:Atlanta, Michigan
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_af82ecb7759b4368a3de5498032ce5e7~mv2.png
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/100aw;URL:https://www.americanrallyassociation.org/100aw;SUMMARY:Rally in the 100 Acre Wood (National/Central);DTSTART:20240315;DTEND:20240316;LOCATION:Salem, Missouri;LOCATION:Potosi, Missouri;ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/100aw
+URL:https://www.americanrallyassociation.org/100aw
+SUMMARY:Rally in the 100 Acre Wood (National/Central)
+DTSTART;TZID=America/Chicago:20240315T000000
+DTEND;TZID=America/Chicago:20240316T235959
+LOCATION:Salem, Missouri;Potosi, Missouri
+ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/olympusrally;URL:https://www.americanrallyassociation.org/olympusrally;SUMMARY:Olympus Rally (National/West);DTSTART:20240420;DTEND:20240421;LOCATION:Shelton, Washington;ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/olympusrally
+URL:https://www.americanrallyassociation.org/olympusrally
+SUMMARY:Olympus Rally (National/West)
+DTSTART;TZID=America/Los_Angeles:20240420T000000
+DTEND;TZID=America/Los_Angeles:20240421T235959
+LOCATION:Shelton, Washington
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/oregontrailrally;URL:https://www.americanrallyassociation.org/oregontrailrally;SUMMARY:Oregon Trail Rally (National/West);DTSTART:20240517;DTEND:20240519;LOCATION:Portland, Oregon;LOCATION:Goldendale, Washington;LOCATION:Dufur, Oregon;ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/oregontrailrally
+URL:https://www.americanrallyassociation.org/oregontrailrally
+SUMMARY:Oregon Trail Rally (National/West)
+DTSTART;TZID=America/Los_Angeles:20240517T000000
+DTEND;TZID=America/Los_Angeles:20240519T235959
+LOCATION:Portland, Oregon;Goldendale, Washington;Dufur, Oregon
+ATTACH;FMTTYPE=image/jpeg:https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/sofr;URL:https://www.americanrallyassociation.org/sofr;SUMMARY:Southern Ohio Forest Rally (National/East);DTSTART:20240606;DTEND:20240608;LOCATION:Chillicothe, Ohio;ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/sofr
+URL:https://www.americanrallyassociation.org/sofr
+SUMMARY:Southern Ohio Forest Rally (National/East)
+DTSTART;TZID=America/New_York:20240606T000000
+DTEND;TZID=America/New_York:20240608T235959
+LOCATION:Chillicothe, Ohio
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/ojibwe;URL:https://www.americanrallyassociation.org/ojibwe;SUMMARY:Ojibwe Forests Rally (National/Central);DTSTART:20240823;DTEND:20240824;LOCATION:Detroit Lakes, Minnesota;ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/ojibwe
+URL:https://www.americanrallyassociation.org/ojibwe
+SUMMARY:Ojibwe Forests Rally (National/Central)
+DTSTART;TZID=America/Chicago:20240823T000000
+DTEND;TZID=America/Chicago:20240824T235959
+LOCATION:Detroit Lakes, Minnesota
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/overmountain-rally;URL:https://www.americanrallyassociation.org/overmountain-rally;SUMMARY:Overmountain Rally Tennessee (National/East);DTSTART:20240914;DTEND:20240915;LOCATION:Johnson City, Tennessee;ATTACH;FMTTYPE:image/png:https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/overmountain-rally
+URL:https://www.americanrallyassociation.org/overmountain-rally
+SUMMARY:Overmountain Rally Tennessee (National/East)
+DTSTART;TZID=America/New_York:20240914T000000
+DTEND;TZID=America/New_York:20240915T235959
+LOCATION:Johnson City, Tennessee
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png
 END:VEVENT
-BEGIN:VEVENT;UID:https://www.americanrallyassociation.org/lspr;URL:https://www.americanrallyassociation.org/lspr;SUMMARY:Lake Superior Performance Rally (National/Central);DTSTART:20241011;DTEND:20241012;LOCATION:Marquette, Michigan;ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png
+BEGIN:VEVENT
+UID:https://www.americanrallyassociation.org/lspr
+URL:https://www.americanrallyassociation.org/lspr
+SUMMARY:Lake Superior Performance Rally (National/Central)
+DTSTART;TZID=America/New_York:20241011T000000
+DTEND;TZID=America/New_York:20241012T235959
+LOCATION:Marquette, Michigan
+ATTACH;FMTTYPE=image/png:https://static.wixstatic.com/media/247ab7_d5ed58b532834e7988de2378146791f7~mv2.png
 END:VEVENT
 END:VCALENDAR
