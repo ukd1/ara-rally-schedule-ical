@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR  
-VERSION:2.0  
 PRODID:ARA iCal Bot  
+VERSION:2.0  
 BEGIN:VEVENT  
 UID:https://www.americanrallyassociation.org/sno-drift  
 URL:https://www.americanrallyassociation.org/sno-drift  
