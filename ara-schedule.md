@@ -5,7 +5,7 @@ URL Source: https://www.americanrallyassociation.org/2024-ara-schedule
 Markdown Content:
 ![Image 63: 2024 championship icon smaller.png](https://static.wixstatic.com/media/724405_e5b978954c0445f08d05cf079c92d679~mv2.png/v1/crop/x_172,y_0,w_1653,h_1423/fill/w_332,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2024%20championship%20icon%20smaller.png)
 
-![Image 64: IMG_0946.JPG](https://static.wixstatic.com/media/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg/v1/fill/w_1024,h_462,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg)
+![Image 64: IMG_0946.JPG](https://static.wixstatic.com/media/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg/v1/fill/w_104,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/f40cbe_ef31761dd07f480aa645df7fd9453e0a~mv2.jpg)
 
 ![Image 65](https://static.wixstatic.com/media/84770f_53e1e888a8444c5b94b7dd3ec1655b3a.png/v1/fill/w_516,h_502,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_53e1e888a8444c5b94b7dd3ec1655b3a.png)
 
@@ -20,7 +20,7 @@ Markdown Content:
 ###### February 9-10, 2024  
 Atlanta, Michigan
 
-[![Image 68: logo_100aw_2_square.jpg](https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_289,h_172,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo_100aw_2_square.jpg)](https://www.americanrallyassociation.org/100aw)
+[![Image 68: logo_100aw_2_square.jpg](https://static.wixstatic.com/media/240f15_4a2b41f663ce494baa88e286e9cfb359~mv2.jpg/v1/crop/x_0,y_101,w_500,h_297/fill/w_72,h_43,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/logo_100aw_2_square.jpg)](https://www.americanrallyassociation.org/100aw)
 
 ###### [Rally in the 100 Acre Wood (National/Central)](https://www.americanrallyassociation.org/100aw)
 
@@ -28,7 +28,7 @@ Atlanta, Michigan
 March 15\-16, 2024  
 Salem/Potosi, Missouri
 
-[![Image 69: Olympus Logo.png](https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png/v1/fill/w_434,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Olympus%20Logo.png)](https://www.americanrallyassociation.org/olympusrally)
+[![Image 69: Olympus Logo.png](https://static.wixstatic.com/media/240f15_1dabe5ae2eaf47538eae3ba5fa042e69~mv2.png/v1/fill/w_109,h_35,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Olympus%20Logo.png)](https://www.americanrallyassociation.org/olympusrally)
 
 ###### [Olympus Rally (National/West)](https://www.americanrallyassociation.org/olympusrally)
 
@@ -36,7 +36,7 @@ Salem/Potosi, Missouri
 April 20\-21, 2024  
 Shelton, Washington
 
-[![Image 70: image0.jpeg](https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg/v1/fill/w_457,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/image0.jpeg)](https://www.americanrallyassociation.org/oregontrailrally)
+[![Image 70: image0.jpeg](https://static.wixstatic.com/media/f40cbe_6005172faf8f4cabaa159c517b258ac4~mv2.jpeg/v1/fill/w_102,h_32,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/image0.jpeg)](https://www.americanrallyassociation.org/oregontrailrally)
 
 ###### [Oregon Trail Rally (National/West)](https://www.americanrallyassociation.org/oregontrailrally)
 
@@ -45,21 +45,21 @@ Portland, Oregon
 Goldendale, Washington  
 Dufur, Oregon
 
-[![Image 71: unnamed.png](https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png/v1/fill/w_388,h_199,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/unnamed.png)](https://www.americanrallyassociation.org/sofr)
+[![Image 71: unnamed.png](https://static.wixstatic.com/media/f40cbe_17fedaf5f07046a89f0ca934cce453bc~mv2.png/v1/fill/w_97,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/unnamed.png)](https://www.americanrallyassociation.org/sofr)
 
 ###### [Southern Ohio Forest Rally (National/East)](https://www.americanrallyassociation.org/sofr)
 
 ###### June 6-8, 2024  
 Chillicothe, Ohio
 
-[![Image 72](https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png/v1/crop/x_251,y_282,w_1404,h_1480/fill/w_224,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png)](https://www.americanrallyassociation.org/ojibwe)
+[![Image 72](https://static.wixstatic.com/media/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png/v1/crop/x_251,y_282,w_1404,h_1480/fill/w_56,h_59,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/247ab7_6795d74e559f46c288590cb6f4352058~mv2.png)](https://www.americanrallyassociation.org/ojibwe)
 
 ###### [Ojibwe Forests Rally (National/Central)](https://www.americanrallyassociation.org/ojibwe)
 
 ###### August 23-24, 2024  
 Detroit Lakes, Minnesota
 
-[![Image 73](https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png/v1/crop/x_143,y_433,w_1713,h_1140/fill/w_354,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png)](https://www.americanrallyassociation.org/overmountain-rally)
+[![Image 73](https://static.wixstatic.com/media/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png/v1/crop/x_143,y_433,w_1713,h_1140/fill/w_89,h_59,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/247ab7_00f58dd876dc463981cc4a4afa612745~mv2.png)](https://www.americanrallyassociation.org/overmountain-rally)
 
 ###### [Overmountain Rally Tennessee (National/East)](https://www.americanrallyassociation.org/overmountain-rally)
 
